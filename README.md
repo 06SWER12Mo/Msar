@@ -1,13 +1,13 @@
-# حالة الحواجز - Smart Checkpoint Status App
+# مسار - Msar
 
 A Flutter application designed to help Palestinian travelers in the West Bank check real-time checkpoint statuses before traveling.
 
 ## Features
 
-- **Interactive Map**: View all checkpoints on Google Maps with color-coded markers
+- **Interactive Map**: View all checkpoints on Flutter Map with color-coded markers
 - **Real-time Status**: Check if checkpoints are Open (سالك), Crowded (أزمة), or Closed (مغلق)
 - **Dual Direction Tracking**: Separate statuses for Entrance (للداخل) and Exit (للخارج)
-- **Voting System**: Users within 3km can vote on checkpoint status
+- **Voting System**: Users can vote from anywhere (for state fullfilling)
 - **Smart Aggregation**: 7-minute voting window with percentage-based status calculation
 - **Admin Panel**: Admins can add checkpoints and override statuses
 - **Arabic Interface**: Fully localized for Palestinian users
@@ -15,9 +15,8 @@ A Flutter application designed to help Palestinian travelers in the West Bank ch
 ## Tech Stack
 
 - Flutter 3.x
-- Firebase Authentication (Google Sign-In)
+- Firebase Authentication (Google Sign-In + Phone sign in with verification(test number:- number:+972IL 599497524, code: 123456))
 - Cloud Firestore
-- Google Maps Flutter
 - Geolocator
 
 ## Setup Instructions
@@ -28,17 +27,12 @@ A Flutter application designed to help Palestinian travelers in the West Bank ch
 4. Add your Google Maps API key in `AndroidManifest.xml` and `AppDelegate.swift`
 5. Run `flutter run`
 
-## Screenshots
-
-[Add 3+ screenshots here for grading]
-
 ## Team Members
 
-- [Your Name]
-- [Team Member 2]
-- [Team Member 3]
+- Muhammad Ayyad
+- BahaAbu Eida
+- Adam Alafandi
 
 ## Course
 
 Advanced Web Development - Flutter Project
-Deadline: May 15, 2026
