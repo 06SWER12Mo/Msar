@@ -15,7 +15,7 @@ A Flutter application designed to help Palestinian travelers in the West Bank ch
 ## Tech Stack
 
 - Flutter 3.x
-- Firebase Authentication (Google Sign-In + Phone sign in with verification(test number:- number:+972IL 599497524, code: 123456))
+- Firebase Authentication (Google Sign-In + Phone Sign-In with verification code (test only -> number:+972 599497524,    verification code: 123456))
 - Cloud Firestore
 - Geolocator
 
@@ -26,6 +26,10 @@ A Flutter application designed to help Palestinian travelers in the West Bank ch
 3. Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
 4. Add your Google Maps API key in `AndroidManifest.xml` and `AppDelegate.swift`
 5. Run `flutter run`
+
+## Logo
+![App Icon](assets/image.png)
+
 
 ## Team Members
 
