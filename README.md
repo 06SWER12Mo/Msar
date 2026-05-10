@@ -27,8 +27,8 @@ A Flutter application designed to help Palestinian travelers in the West Bank ch
 4. Add your Google Maps API key in `AndroidManifest.xml` and `AppDelegate.swift`
 5. Run `flutter run`
 
-## Logo
-![App Icon](assets/image.png)
+## App Icon
+<img src="assets/image.png" width="200" height="200">
 
 
 ## Team Members
