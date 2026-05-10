@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227050817312",
+    "project_id": "hackops-checkpoint-2026",
+    "storage_bucket": "hackops-checkpoint-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227050817312:android:6a955a0b5ed366c5ef7945",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227050817312-u8kugu9nd27i5d8feh7bskg66495l227.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_final_app",
+            "certificate_hash": "0ccd2d77766e8fe99bb47f7ce02cc24c7be35823"
+          }
+        },
+        {
+          "client_id": "227050817312-83i1k71nihem51mth5s079feg8q4pubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAF2Z1RCs6xpDdi4WYOLqG-I7B5VUDs8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227050817312-83i1k71nihem51mth5s079feg8q4pubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
